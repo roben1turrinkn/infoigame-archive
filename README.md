@@ -1,2 +1,14 @@
 # infoigame-archive
-HTML page archive and documentation
+
+页面内容归档仓库
+
+本仓库承载生成后的页面文件，便于跟踪每次提交内容。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
